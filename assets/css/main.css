@@ -28,9 +28,15 @@ body {
 }
 
 ol, ul {
-	list-style-type: none;
+	list-style-type: none !important;
 }
-  
+
+#ourGallery{
+	text-align: center;
+	padding-top: 3%;
+	letter-spacing: 7px;
+	font-weight: 700;
+}
 
 blockquote, q {
 	quotes: none;
