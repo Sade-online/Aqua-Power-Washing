@@ -580,7 +580,6 @@ input, select, textarea {
 				.row > .col-1-xlarge {
 					width: 8.33333%;
 				}
-
 				.row > .off-1-xlarge {
 					margin-left: 8.33333%;
 				}
@@ -3288,6 +3287,8 @@ input, select, textarea {
 
 				#header br {
 					display: inline;
+					align-items: center;
+					align-content: center;
 				}
 
 		/* Footer */
